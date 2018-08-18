@@ -1,4 +1,4 @@
-package com.example.demo.util.webservice.BeanAndXml.converter;
+package com.example.demo.util.webservice.beanxml.converter;
 
 import com.thoughtworks.xstream.converters.Converter;
 import com.thoughtworks.xstream.converters.MarshallingContext;

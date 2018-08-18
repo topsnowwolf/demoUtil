@@ -1,6 +1,6 @@
-package com.example.demo.util.webservice.BeanAndXml;
+package com.example.demo.util.webservice.beanxml;
 
-import com.example.demo.util.webservice.BeanAndXml.bean.XstreamUtil;
+import com.example.demo.util.webservice.beanxml.bean.XstreamUtil;
 
 /**
  * @author: topsnowwolf

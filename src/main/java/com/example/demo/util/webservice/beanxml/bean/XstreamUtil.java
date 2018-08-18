@@ -1,4 +1,4 @@
-package com.example.demo.util.webservice.BeanAndXml.bean;
+package com.example.demo.util.webservice.beanxml.bean;
 
 import com.thoughtworks.xstream.XStream;
 

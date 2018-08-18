@@ -1,4 +1,4 @@
-package com.example.demo.util.webservice.BeanAndXml.xml;
+package com.example.demo.util.webservice.beanxml.xml;
 
 /**
  * @author: topsnowwolf

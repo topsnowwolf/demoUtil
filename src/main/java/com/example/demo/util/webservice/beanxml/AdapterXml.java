@@ -1,7 +1,7 @@
-package com.example.demo.util.webservice.BeanAndXml;
+package com.example.demo.util.webservice.beanxml;
 
-import com.example.demo.util.webservice.BeanAndXml.xml.BuilderXml;
-import com.example.demo.util.webservice.BeanAndXml.xml.CostomToXml;
+import com.example.demo.util.webservice.beanxml.xml.BuilderXml;
+import com.example.demo.util.webservice.beanxml.xml.CostomToXml;
 import com.thoughtworks.xstream.converters.Converter;
 
 /**

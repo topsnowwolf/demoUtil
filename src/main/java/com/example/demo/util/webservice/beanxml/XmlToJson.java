@@ -1,4 +1,4 @@
-package com.example.demo.util.webservice.BeanAndXml;
+package com.example.demo.util.webservice.beanxml;
 
 import com.alibaba.fastjson.JSONObject;
 import org.jdom2.Document;
